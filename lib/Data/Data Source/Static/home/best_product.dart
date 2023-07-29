@@ -1,0 +1,66 @@
+import 'package:get/get.dart';
+
+import '../../../Model/BestProductModel.dart';
+
+List<BestProductModel> bestProductList = [
+  BestProductModel(
+      id: 'd1',
+      name: 'Fried Chicken'.tr,
+      image: 'Assets/images/Home/BestFood/Fried Chicken.png',
+      categories: 'Meat'.tr,
+      description: '',
+      price: '80',
+      rate: '4.8',
+      resturant: 'Abo Ali resturant'.tr,
+      quantity: 1),
+  BestProductModel(
+      id: 'd2',
+      name: 'Pizza'.tr,
+      image: 'Assets/images/Home/BestFood/Pizza.png',
+      categories: 'Fast Food'.tr,
+      description: '',
+      price: '40',
+      rate: '4.7',
+      resturant: 'Dominoz Pizza'.tr,
+      quantity: 1),
+  BestProductModel(
+      id: 'd3',
+      name: 'Cheese Burger'.tr,
+      image: 'Assets/images/Home/BestFood/Cheese Burger.png',
+      categories: 'Fast Food'.tr,
+      description: '',
+      price: ' 50',
+      rate: '4.7',
+      resturant: 'Makdonald'.tr,
+      quantity: 1),
+  BestProductModel(
+      id: 'd4',
+      name: 'Fruit Salad'.tr,
+      image: 'Assets/images/Home/BestFood/Fruit Salad.png',
+      categories: 'Healthy Food'.tr,
+      description: '',
+      price: '35',
+      rate: '4.6',
+      resturant: 'Fruty'.tr,
+      quantity: 1),
+  BestProductModel(
+      id: 'd5',
+      name: 'Donut'.tr,
+      image: 'Assets/images/Home/BestFood/Donut.png',
+      categories: 'Sweet Food'.tr,
+      description: '',
+      price: '10',
+      rate: '4.5',
+      resturant: 'Donti'.tr,
+      quantity: 1),
+  BestProductModel(
+      id: 'd6',
+      name: 'Fried Potato'.tr,
+      image: 'Assets/images/Home/BestFood/Fried potato.png',
+      categories: 'Fast Food'.tr,
+      description: '',
+      price: '40',
+      rate: '4.5',
+      resturant: 'Abo Ali resturant'.tr,
+      quantity: 1),
+];

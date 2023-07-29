@@ -1,0 +1,30 @@
+//Theme 
+have the theme of app
+//
+//
+//
+//
+Constant 
+have the color and sized and api linke of the app
+//
+//
+//
+//
+Conrroller
+have the data  the transform in the app
+//
+//
+//
+//
+Model 
+the form of data 
+//
+//
+//
+//
+Screens
+the shap of widget
+//
+//
+//
+//
